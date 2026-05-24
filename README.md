@@ -1,8 +1,8 @@
-# Image-Classification-using-CNN-and-ensemble\
+# Image-Classification-using-CNN-and-ensemble
 
 This project focuses on scene classification using convolutional neural networks (CNNs). The proposed system integrates several advanced components to enhance performance, including the Convolutional Block Attention Module (CBAM) for attention-based feature refinement, Spatial Pyramid Pooling (SPP) for multi-scale feature extraction, residual connections to improve optimization, and partial replacement of fully connected layers with Global Average Pooling (GAP) for improved efficiency. Additionally, an ensemble approach is employed to further boost classification accuracy. The overall architecture draws inspiration from recent works by Yee et al. (2022), Woo et al. (2018) and He et al. (2015).
 
-This project uses data from [Scene-15](https://www.kaggle.com/datasets/yiklunchow/scene15) to train and test the model. 
+This project uses data from [Scene-15](https://www.kaggle.com/datasets/yiklunchow/scene15) to train and test the model. The model achieve an accuracy of 92.84% on the test set.
 
 
 # To run the model
